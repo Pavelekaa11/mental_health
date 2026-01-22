@@ -834,7 +834,7 @@ export default function EnhancedMentalHealthHub() {
 
           <div className="border-t border-gray-800 pt-6 text-center">
             <p className="text-gray-500 text-sm">
-              © 2024 KKN Mental Health Hub. Dibuat dengan ❤️ untuk kesehatan
+              © 2026 KKN Mental Health Hub. Dibuat dengan ❤️ untuk kesehatan
               mental yang lebih baik.
             </p>
           </div>
